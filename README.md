@@ -9,7 +9,7 @@ of filters and actions that determine what is displayed and when.
 ![](Example.png)
 
 ### Usage
-Simply put the downloaded ContextualActions folder in your project
-and open the window under `Tools > Contextual Actions`
+Simply put the downloaded ContextualActions folder in your project  
+and open the window under  `Tools > Contextual Actions`
 
 [Odin Inspector]: https://odininspector.com/
